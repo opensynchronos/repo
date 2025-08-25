@@ -25,8 +25,8 @@
           "Punchline": "Let others see you as you see yourself.",
           "Changelog": "",
           "AcceptsFeedback": true,
-          "DownloadLinkInstall": "https://github.com/opensynchronos/opensynchronos/releases/download/v1.11.0.1/latest.zip",
-          "DownloadLinkUpdate": "https://github.com/opensynchronos/opensynchronos/releases/download/v1.11.0.1/latest.zip",
-          "LastUpdate": 1756134853
+          "DownloadLinkInstall": "https://github.com/opensynchronos/opensynchronos-client/releases/download/v1.11.0.1/latest.zip",
+          "DownloadLinkUpdate": "https://github.com/opensynchronos/opensynchronos-client/releases/download/v1.11.0.1/latest.zip",
+          "LastUpdate": 1756134854
         }
 ]
