@@ -3,7 +3,7 @@
           "Author": "OpenSynchronos",
           "Name": "OpenSynchronos",
           "InternalName": "OpenSynchronos",
-          "AssemblyVersion": "1.11.0.1",
+          "AssemblyVersion": "1.11.0.2",
           "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
           "ApplicableVersion": "any",
           "RepoUrl": "https://github.com/opensynchronos/opensynchronos",
@@ -25,8 +25,8 @@
           "Punchline": "Let others see you as you see yourself.",
           "Changelog": "",
           "AcceptsFeedback": true,
-          "DownloadLinkInstall": "https://github.com/opensynchronos/opensynchronos-client/releases/download/v1.11.0.1/latest.zip",
-          "DownloadLinkUpdate": "https://github.com/opensynchronos/opensynchronos-client/releases/download/v1.11.0.1/latest.zip",
-          "LastUpdate": 1756134854
+          "DownloadLinkInstall": "https://github.com/opensynchronos/opensynchronos-client/releases/download/v1.11.0.2/latest.zip",
+          "DownloadLinkUpdate": "https://github.com/opensynchronos/opensynchronos-client/releases/download/v1.11.0.2/latest.zip",
+          "LastUpdate": 1756660745
         }
 ]
